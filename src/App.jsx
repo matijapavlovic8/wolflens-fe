@@ -11,7 +11,7 @@ function cn(...inputs) {
 }
 
 // --- CONSTANTS & MOCK DATA ---
-const DEMO_MODE = true; // Set to false to connect to localhost:8000
+const DEMO_MODE = true; 
 
 const MOCK_SEARCH_RESPONSE = {
   result: {
