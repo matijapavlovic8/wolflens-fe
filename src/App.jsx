@@ -11,7 +11,7 @@ function cn(...inputs) {
 }
 
 // --- CONSTANTS & MOCK DATA ---
-const DEMO_MODE = true; 
+const DEMO_MODE = true; //
 
 const MOCK_SEARCH_RESPONSE = {
   result: {
